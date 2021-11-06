@@ -1,6 +1,6 @@
 ---
 title: Proyects
-subtitle: This is an optional subtitle for the portfolio page.
+subtitle: Here you'll find my most recent projects. Take a look!
 layout_style: mosaic
 seo:
   title: Portfolio
