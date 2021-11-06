@@ -51,17 +51,17 @@
                 "new_window": true
             },
             {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "style": "icon",
-                "icon": "instagram",
-                "new_window": true
-            },
-            {
                 "label": "Github",
                 "url": "https://github.com/mauricodev",
                 "style": "icon",
                 "icon": "github",
+                "new_window": true
+            },
+            {
+                "label": "Instagram",
+                "url": "https://www.instagram.com/",
+                "style": "icon",
+                "icon": "instagram",
                 "new_window": true
             },
             {
