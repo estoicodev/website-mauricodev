@@ -21,7 +21,7 @@ sections:
     view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: Who I am?
+    title: What I do?
     subtitle: I turn ideas into something alive on the web. Just that.
     col_number: two
     is_numbered: true
