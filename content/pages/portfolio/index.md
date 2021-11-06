@@ -1,6 +1,6 @@
 ---
 title: Proyects
-subtitle: 'Hey!! You again!! As I told you before, here you''ll find what I do recently.'
+subtitle: 'Hey!! You again! As I told you before, here you''ll find what I do recently.'
 layout_style: mosaic
 seo:
   title: Portfolio
