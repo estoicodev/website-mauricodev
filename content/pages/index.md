@@ -5,9 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: "Hi, I'm Mauricio Carrasco \U0001F44B"
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      Let's create together. Are you ready?
     actions:
       - label: Let's talk
         url: /contact
