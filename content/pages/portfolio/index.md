@@ -1,6 +1,6 @@
 ---
 title: Proyects
-subtitle: Here you'll find my most recent projects. Take a look!
+subtitle: Hey!! In here you'll find what I do recently.
 layout_style: mosaic
 seo:
   title: Portfolio
