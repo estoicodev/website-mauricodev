@@ -14,7 +14,7 @@ sections:
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
-    title: Portf
+    title: Portfolio
     subtitle: Here you'll find my most recent projects. Take a look!
     projects_number: 6
     view_all_label: View All
