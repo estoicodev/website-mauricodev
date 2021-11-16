@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Mauricio CarrascoFrontend Developer'
+    title: "Hi, I'm Mauricio Carrasco\_ \_ Frontend Developer"
     content: |
       Let's create together. Are you ready?
     actions:
