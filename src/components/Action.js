@@ -13,7 +13,7 @@ export default class Action extends React.Component {
         const icon = _.get(action, 'icon', 'dribbble');
         const classes = classNames({
             'button': style === 'button',
-            'button-icon': style === 'icon'
+            'button-icon': style  'icon'
         });
         const newWindow = _.get(action, 'new_window');
         const noFollow = _.get(action, 'no_follow');
