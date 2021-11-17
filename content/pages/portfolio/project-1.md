@@ -6,7 +6,9 @@ thumb_image: /images/Mathematics Web Page-ea895c93.png
 thumb_image_alt: >-
   A web page that calculates the perimeter and area of the square, triangle and
   circle
-image_alt: 'White, black, and red shoe sole'
+image_alt: >-
+  A web page that calculates the perimeter and area of the square, triangle and
+  circle
 seo:
   title: Project Title 1
   description: This is the project 1 description
