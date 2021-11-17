@@ -52,7 +52,7 @@ a {
   &:hover,
   &:focus {
     color: _palette(charcoal-dark-15);
-    tex
+    text-decoration: underline;
 }
 
   &:not(.button) {
