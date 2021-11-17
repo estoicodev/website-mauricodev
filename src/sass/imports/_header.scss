@@ -103,7 +103,7 @@
   a {
       //   ADDING
       padding-bottom: 3px;
-      border-bottom: 2px solid transparent;
+      border-bottom: 1px solid transparent;
       //   
       &:not(.button) {
       color: inherit;
@@ -111,7 +111,7 @@
       &:hover {
         color: _palette(charcoal-dark-15);
         // ADDING
-        border-bottom: 2px solid #000;
+        border-bottom: 1px solid #000;
         // 
         .accent-green & {
           color: _palette(accent-green);
