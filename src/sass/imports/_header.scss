@@ -287,20 +287,20 @@
   .menu--opened {
     overflow: hidden;
 
-    // .site-header {
-    //   &:after {
-    //     opacity: 1;
-    //     -webkit-transition: opacity .25s;
-    //     transition: opacity .25s;
-    //     visibility: visible;
-    //   }
-    // }
+    .site-header {
+      &:after {
+        opacity: 1;
+        -webkit-transition: opacity .25s;
+        transition: opacity .25s;
+        visibility: visible;
+      }
+    }
 
-    // .site-navigation {
-    //   right: 0;
-    //   -webkit-transition: right .3s ease;
-    //   transition: right .3s ease;
-    //   visibility: visible;
-    // }
+    .site-navigation {
+      right: 0;
+      -webkit-transition: right .3s ease;
+      transition: right .3s ease;
+      visibility: visible;
+    }
   }
 }
