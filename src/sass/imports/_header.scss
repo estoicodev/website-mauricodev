@@ -111,7 +111,8 @@
       &:hover {
         color: _palette(charcoal-dark-15);
         // ADDING
-        border-bottom-color: _palette(charcoal-dark-15);
+        // border-bottom-color: _palette(charcoal-dark-15);
+        
         // 
         .accent-green & {
           color: _palette(accent-green);
