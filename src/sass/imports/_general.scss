@@ -52,7 +52,7 @@ a {
   &:hover,
   &:focus {
     color: _palette(charcoal-dark-15);
-    // text-decoration: underline;
+    text-decoration: underline;
     border-bottom: 2px solid _palette(charcoal-dark-15)
 }
 
