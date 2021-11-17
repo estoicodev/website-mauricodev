@@ -104,9 +104,8 @@
     &:not(.button) {
       border: 0;
       color: inherit;
-      .menu-item a {
-  padding-bottom: 5px;
-  border-bottom: 1.5px solid transparent;
+      padding-bottom: 5px;
+      border-bottom: 1.5px solid transparent;
 }
 .menu-item a:hover {
   border-bottom-color: _palette(charcoal-dark-15);
