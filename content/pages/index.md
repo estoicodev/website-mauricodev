@@ -34,6 +34,7 @@ sections:
       - title: Web Development
         content: |
           *   Frontend Programming
+          *   SEO
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
