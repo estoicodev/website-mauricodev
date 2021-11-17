@@ -31,7 +31,6 @@ sections:
           *   Layouts
           *   UI interfaces
         title: Web Design
-        image: /images/web-design-svgrepo-com.svg
       - title: Web Development
         content: |
           *   Landing Pages
