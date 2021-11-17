@@ -31,10 +31,8 @@ sections:
           *   Layouts
         title: Web design
       - title: Web Development
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: |
+          *   Frontend Programming
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
