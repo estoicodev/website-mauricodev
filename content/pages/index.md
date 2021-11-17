@@ -2,7 +2,7 @@
 title: Home
 hide_title: true
 sections:
-  - section_id: hero
+  - section_id: herodwd
     type: section_hero
     title: 'Hi, I''m Mauricio Carrasco'
     content: >
