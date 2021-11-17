@@ -23,7 +23,7 @@ sections:
   - section_id: services
     type: section_grid
     title: Services
-    subtitle: I turn ideas into something alive on the web. Just that.
+    subtitle: I turn ideas into something alive on the web.
     col_number: two
     is_numbered: true
     grid_items:
