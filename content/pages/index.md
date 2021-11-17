@@ -25,7 +25,7 @@ sections:
     title: Services
     subtitle: I turn ideas into something alive on the web.
     col_number: two
-    is_numbered: true
+    is_numbered: false
     grid_items:
       - content: |
           *   Layouts
