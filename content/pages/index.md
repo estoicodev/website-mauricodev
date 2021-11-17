@@ -18,7 +18,7 @@ sections:
     title: Portfolio
     subtitle: Here you'll find my most recent projects. Take a look!
     projects_number: 6
-    view_all_label: View All
+    view_all_label: View More
     view_all_url: portfolio
   - section_id: services
     type: section_grid
