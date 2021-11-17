@@ -2,7 +2,7 @@
     "title": "Mauricodev | Website",
     "path_prefix": "/",
     "color_scheme": "light",
-    "accent_color": "violet",
+    "accent_color": "green",
     "header": {
         "title": "MAURICODEV",
         "has_nav": true,
