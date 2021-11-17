@@ -30,7 +30,7 @@ sections:
       - content: |
           *   Layouts
         title: Web design
-      - title: Web development
+      - title: Frontend Programmer
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
