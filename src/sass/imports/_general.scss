@@ -53,7 +53,7 @@ a {
   &:focus {
     color: _palette(charcoal-dark-15);
     // text-decoration: underline;
-    border-bottom:
+    border-bottom: _palette()
 }
 
   &:not(.button) {
