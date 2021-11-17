@@ -54,7 +54,8 @@ a {
     color: _palette(charcoal-dark-15);
     text-decoration: underline;
     border-bottom-width: 5px;
-    border-bottom-style: ;    
+    border-bottom-style: solid;
+        
 }
 
   &:not(.button) {
