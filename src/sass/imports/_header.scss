@@ -133,22 +133,22 @@
   }
 }
 
-#menu-open,
-#menu-close {
-  background: 0;
-  border: 0;
-  color: inherit;
-  height: 30px;
-  padding: 0;
-  position: relative;
-  width: 30px;
+// #menu-open,
+// #menu-close {
+//   background: 0;
+//   border: 0;
+//   color: inherit;
+//   height: 30px;
+//   padding: 0;
+//   position: relative;
+//   width: 30px;
 
-  &:hover,
-  &:focus,
-  &:active {
-    outline: 0;
-  }
-}
+//   &:hover,
+//   &:focus,
+//   &:active {
+//     outline: 0;
+//   }
+// }
 
 @media only screen and (min-width: 801px) {
   .menu-toggle {
