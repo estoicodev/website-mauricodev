@@ -253,13 +253,13 @@
       border-top-color: _palette(charcoal-light-7);
     }
 
-    // &:not(.menu-button):last-child {
-    //   border-bottom: 1px solid _palette(charcoal-light-75);
+    &:not(.menu-button):last-child {
+      border-bottom: 1px solid _palette(charcoal-light-75);
 
-    //   .palette-dark & {
-    //     border-bottom-color: _palette(charcoal-light-7);
-    //   }
-    // }
+      .palette-dark & {
+        border-bottom-color: _palette(charcoal-light-7);
+      }
+    }
 
     a {
       display: block;
