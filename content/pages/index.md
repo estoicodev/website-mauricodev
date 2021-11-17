@@ -5,9 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: "Hi, I'm Mauricio Carrasco\_ \_ Frontend Developer"
-    content: >
-      *A curious developer who likes to create beautiful and functional things
-      on the web*
+    content: |
+      *A curious developer who likes to create beautiful*
+
+      *and functional things on the web*
     actions:
       - label: Let's talk
         url: /contact
