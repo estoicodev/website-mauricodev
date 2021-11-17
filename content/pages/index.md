@@ -30,7 +30,6 @@ sections:
       - content: |
           *   Layouts
           *   UI interfaces
-          *   Responsive Design
         title: Web Design
       - title: Web Development
         content: |
