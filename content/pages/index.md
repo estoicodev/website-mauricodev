@@ -14,7 +14,7 @@ sections:
         style: button
   - section_id: latest-projects
     type: section_portfolio
-    layout_style: mosaic
+    layout_style: tiles
     title: Portfolio
     subtitle: Here you'll find my most recent projects. Take a look!
     projects_number: 6
