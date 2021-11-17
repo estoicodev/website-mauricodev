@@ -24,7 +24,7 @@ sections:
     type: section_grid
     title: Services
     subtitle: I turn ideas into something alive on the web.
-    col_number: three
+    col_number: two
     is_numbered: true
     grid_items:
       - content: |
