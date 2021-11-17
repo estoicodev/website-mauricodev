@@ -29,6 +29,7 @@ sections:
     grid_items:
       - content: |
           *   Layouts
+          *   UI interfaces
         title: Web Design
       - title: Web Development
         content: |
