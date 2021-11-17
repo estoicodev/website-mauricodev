@@ -1,6 +1,6 @@
 ---
 title: Mathematics Web Page
-subtitle: esta es una pagina web con 3 pequeños proyectos en él.
+subtitle: This is a website with 3 small projects on it.
 date: '2019-05-10'
 thumb_image: /images/Mathematics Web Page-ea895c93.png
 thumb_image_alt: 'White, black, and red shoe sole'
