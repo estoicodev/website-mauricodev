@@ -3,7 +3,7 @@ title: Mathematics Web Page
 subtitle: This is a website with 3 little maths projects on it.
 date: '2019-05-10'
 thumb_image: /images/Mathematics Web Page-ea895c93.png
-thumb_image_alt: Caratula del proyecto "Pagina Web de Mathematicas"
+thumb_image_alt: Cover of the project "Mathematics Web Page"
 image_alt: >-
   A web page that calculates the perimeter and area of the square, triangle and
   circle
