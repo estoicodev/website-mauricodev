@@ -28,7 +28,7 @@ sections:
     is_numbered: true
     grid_items:
       - content: |
-          *   Layouts
+          *   Responsive Layouts
           *   UI interfaces
         title: Web Design
       - title: Web Development
