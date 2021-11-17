@@ -104,13 +104,7 @@
     &:not(.button) {
       border: 0;
       color: inherit;
-      padding-bottom: 5px;
-      border-bottom: 1.5px solid transparent;
-}
-.menu-item a:hover {
-  border-bottom-color: _palette(charcoal-dark-15);
-}
-
+      
       &:hover {
         color: _palette(accent);
 
