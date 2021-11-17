@@ -111,7 +111,7 @@
       &:hover {
         color: _palette(charcoal-dark-15);
         // ADDING
-        border-bottom: 1px solid #080827;
+        border-bottom: 1px solid _palette();
         // 
         .accent-green & {
           color: _palette(accent-green);
