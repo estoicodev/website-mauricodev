@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: "Hi, I'm Mauricio Carrasco\_ \_ Frontend Developer"
     content: |
-      Let's create together. Are you ready?
+      A curious developer who likes to create beautiful and functional web pages
     actions:
       - label: Let's talk
         url: /contact
