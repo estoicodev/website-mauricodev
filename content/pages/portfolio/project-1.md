@@ -3,7 +3,7 @@ title: Mathematics Web Page
 subtitle: This is a website with 3 little maths projects on it.
 date: '2019-05-10'
 thumb_image: /images/Mathematics Web Page-ea895c93.png
-thumb_image_alt: A Web Page with Geomtrica
+thumb_image_alt: A Web Page with Geometric Figures
 image_alt: 'White, black, and red shoe sole'
 seo:
   title: Project Title 1
