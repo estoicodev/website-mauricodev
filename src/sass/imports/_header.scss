@@ -110,7 +110,7 @@
     
       &:hover {
         color: _palette(accent);
-        border-bottom-color: _pale;
+        border-bottom-color: _palette(charcoal-dark-15);
         .accent-green & {
           color: _palette(accent-green);
         }
