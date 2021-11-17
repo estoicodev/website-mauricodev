@@ -71,7 +71,7 @@
   &:active {
     color: _palette(accent-white);
     outline: 0;
-    background-color: _pale;
+    background-color: _palette(accent);
 
     .accent-green & {
       color: _palette(accent-green);
