@@ -53,9 +53,6 @@ a {
   &:focus {
     color: _palette(charcoal-dark-15);
     text-decoration: underline;
-    border-bottom-width: 5px;
-    border-bottom-style: solid;
-    border-bottom-color: _palette(charcoal-dark-15);
 }
 
   &:not(.button) {
