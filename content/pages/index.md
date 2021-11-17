@@ -17,7 +17,7 @@ sections:
     layout_style: tiles
     title: Portfolio
     subtitle: Here you'll find my most recent projects. Take a look!
-    projects_number: 6
+    projects_number: 4
     view_all_label: View More
     view_all_url: portfolio
   - section_id: services
