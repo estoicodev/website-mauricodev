@@ -83,21 +83,21 @@
   &.current-menu-item {
     color: _palette(accent);
 
-    .accent-green & {
-      color: _palette(accent-green);
-    }
+    // .accent-green & {
+    //   color: _palette(accent-green);
+    // }
   
-    .accent-blue & {
-      color: _palette(accent-blue);
-    }
+    // .accent-blue & {
+    //   color: _palette(accent-blue);
+    // }
   
-    .accent-violet & {
-      color: _palette(accent-violet);
-    }
+    // .accent-violet & {
+    //   color: _palette(accent-violet);
+    // }
   
-    .accent-yellow & {
-      color: _palette(accent-yellow);
-    }
+    // .accent-yellow & {
+    //   color: _palette(accent-yellow);
+    // }
   }
 
   a {
