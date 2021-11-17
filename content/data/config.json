@@ -25,7 +25,8 @@
             {
                 "label": "Who I am?",
                 "url": "/about/",
-                "style": "link"
+                "style": "link",
+                "icon": "facebook"
             },
             {
                 "label": "Let's talk!",
