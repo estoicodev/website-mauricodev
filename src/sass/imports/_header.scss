@@ -130,7 +130,7 @@
   }
 }
 .menu-item:hover {
-  border-bottom-color: rgba(_palette(charcoal),.6);
+  border-bottom-color: _palette(c);
 }
 
 #menu-open,
