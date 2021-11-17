@@ -100,37 +100,37 @@
     }
   }
 
-//   a {
-//       &:not(.button) {
-//     //   ADDING
-//       padding-bottom: 5px;
-//       border-bottom: 1.5px solid transparent;
-//     //   
-//       color: inherit;
+  a {
+      &:not(.button) {
+    //   ADDING
+      padding-bottom: 5px;
+      border-bottom: 1.5px solid transparent;
+    //   
+      color: inherit;
     
-//       &:hover {
-//         color: _palette(charcoal-dark-15);
-//         // ADDING
-//         border-bottom-color: _palette(charcoal-dark-15);
-//         // 
-//         .accent-green & {
-//           color: _palette(accent-green);
-//         }
+      &:hover {
+        color: _palette(charcoal-dark-15);
+        // ADDING
+        border-bottom-color: _palette(charcoal-dark-15);
+        // 
+        .accent-green & {
+          color: _palette(accent-green);
+        }
       
-//         .accent-blue & {
-//           color: _palette(accent-blue);
-//         }
+        .accent-blue & {
+          color: _palette(accent-blue);
+        }
       
-//         .accent-violet & {
-//           color: _palette(accent-violet);
-//         }
+        .accent-violet & {
+          color: _palette(accent-violet);
+        }
       
-//         .accent-yellow & {
-//           color: _palette(accent-yellow);
-//         }
-//       }
-//     }
-//   }
+        .accent-yellow & {
+          color: _palette(accent-yellow);
+        }
+      }
+    }
+  }
 }
 
 #menu-open,
