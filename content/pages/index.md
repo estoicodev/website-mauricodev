@@ -27,10 +27,8 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+      - content: |
+          *   Layouts
         title: Web design
       - title: Web development
         content: >-
