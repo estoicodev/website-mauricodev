@@ -29,7 +29,7 @@ sections:
     grid_items:
       - content: |
           *   Layouts
-        title: Web design
+        title: Web Design
       - title: Web Development
         content: |
           *   Frontend Programming
