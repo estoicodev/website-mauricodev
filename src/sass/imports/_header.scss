@@ -84,7 +84,7 @@
     color: _palette(accent);
     a {
       border-bottom: 1.5px solid transparent;
-      border-block-color: _pale;
+      border-bottom-color: _palette(s);
     }
     .accent-green & {
       color: _palette(accent-green);
