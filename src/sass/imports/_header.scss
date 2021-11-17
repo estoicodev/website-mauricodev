@@ -82,7 +82,7 @@
 
   &.current-menu-item {
     color: _palette(accent);
-           
+    & a       
     .accent-green & {
       color: _palette(accent-green);
     }
