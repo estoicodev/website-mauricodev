@@ -60,6 +60,6 @@ seo:
     - name: 'twitter:title'
       value: Contact
     - name: 'twitter:description'
-      value: This is the contact page
+      value: The contact page in Mauricodev Website.
 layout: advanced
 ---
