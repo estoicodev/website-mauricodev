@@ -37,7 +37,7 @@ sections:
           *   SEO
 seo:
   title: Mauricodev Website
-  description: 'This is the website of Mauricodev, a curious Fron-end developer.'
+  description: 'This is the website of Mauricodev, a curious Front-end developer.'
   extra:
     - name: 'og:type'
       value: website
