@@ -65,7 +65,7 @@ seo:
         This is the website of Mauricodev, a curious developer who likes to
         create beautiful and functional things on the web.
     - name: 'twitter:image'
-      value: images/exto_preview.png
+      value: /images/mauricodev-website-home-section-729ff943.jpg
       relativeUrl: true
 layout: advanced
 ---
