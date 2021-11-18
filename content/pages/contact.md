@@ -53,7 +53,7 @@ seo:
       value: Talk with Mauricio Carrasco
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: 'The contact information '
       keyName: property
     - name: 'twitter:card'
       value: summary
