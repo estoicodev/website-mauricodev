@@ -46,7 +46,7 @@ seo:
       value: 'Mauricodev '
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: 'The preview of the Exto theme '
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
