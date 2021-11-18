@@ -19,7 +19,7 @@ seo:
       value: Mauricio Carrasco is a curious Frontend developer
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: /images/foto_portada-fab0e4ec.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
