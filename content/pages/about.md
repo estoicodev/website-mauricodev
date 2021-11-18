@@ -16,7 +16,7 @@ seo:
       value: Who I am?
       keyName: property
     - name: 'og:description'
-      value: Mauricodev
+      value: Mauricio Carrasco is a curious Frontend developer
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
