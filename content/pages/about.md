@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:title'
       value: Who I am?
     - name: 'twitter:description'
-      value: Mauricio Carrasco is a curious Frontend developer
+      value: Mauricio Carrasco is a curious Front-end developer.
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true
