@@ -62,5 +62,6 @@
             }
         ]
     },
-    "domain": "https://mauricodev.netlify.app"
+    "domain": "https://mauricodev.netlify.app",
+    "favicon": "/images/letter-m-svgrepo-com.svg"
 }
