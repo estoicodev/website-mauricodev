@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Mauricio Carrasco'
+    title: Hello! I'm Mauricio Carrasco
     content: >
       *A curious developer who likes to create beautiful and functional things
       on the web*
@@ -36,30 +36,36 @@ sections:
           *   Landing Pages
           *   SEO
 seo:
-  title: Stackbit Exto Theme
-  description: The preview of the Exto theme
+  title: 'Website of Mauricio Carrasco '
+  description: >-
+    This is the website of Mauricodev, a curious developer who likes to create
+    beautiful and functional things on the web.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Exto Theme
+      value: Website of Mauricio Carrasco
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: >-
+        This is the website of Mauricodev, a curious developer who likes to
+        create beautiful and functional things on the web.
       keyName: property
     - name: 'og:image'
-      value: images/exto_preview.png
+      value: /images/mauricodev-website-home-section.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Exto Theme
+      value: Website of Mauricio Carrasco
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: >-
+        This is the website of Mauricodev, a curious developer who likes to
+        create beautiful and functional things on the web.
     - name: 'twitter:image'
-      value: images/exto_preview.png
+      value: /images/mauricodev-website-home-section-729ff943.jpg
       relativeUrl: true
 layout: advanced
 ---

@@ -4,32 +4,36 @@ subtitle: >-
   In short, I'm a passionate self-taught learner who seeks to bring her skills
   to create things that can serve as a tool for others.
 image: /images/foto_portada.jpeg
-image_alt: A man taking a picture
+image_alt: A picture of me in "7 colors Hill"
 seo:
-  title: About Us
-  description: This is the about us page
+  title: Who is Mauricio Carrasco?
+  description: Mauricio Carrasco is a curious Front-end developer.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Us
+      value: Who is Mauricio Carrasco?
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: >-
+        Mauricio Carrasco is a curious Front-end developer who likes to create
+        beautiful and functional things on the web.
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: /images/foto_portada-fab0e4ec.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Us
+      value: Who is Mauricio Carrasco?
     - name: 'twitter:description'
-      value: This is the about us page
+      value: >-
+        Mauricio Carrasco is a curious Front-end developer who likes to create
+        beautiful and functional things on the web.
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: /images/foto_portada-a02cd0b6.jpeg
       relativeUrl: true
 layout: page
 ---

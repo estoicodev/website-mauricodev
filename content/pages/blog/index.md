@@ -5,7 +5,8 @@ hide_title: true
 col_number: two
 seo:
   title: Blog
-  description: This is the blog page
+  description: |
+    This is the blog of Mauricio Carrasco. Go to my blog in Medium.
   extra:
     - name: 'og:type'
       value: website
@@ -14,10 +15,10 @@ seo:
       value: Blog
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: Go to my Blog in Medium like @mauriciocarrasco.
       keyName: property
     - name: 'og:image'
-      value: images/12.jpg
+      value: /images/medium-mauricio-carrasco.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -25,9 +26,9 @@ seo:
     - name: 'twitter:title'
       value: Blog
     - name: 'twitter:description'
-      value: This is the blog page
+      value: Go to my Blog in Medium like @mauriciocarrasco.
     - name: 'twitter:image'
-      value: images/12.jpg
+      value: /images/medium-mauricio-carrasco-2f0910ce.png
       relativeUrl: true
 layout: blog
 ---

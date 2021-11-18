@@ -50,16 +50,16 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Talk with Mauricio Carrasco
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: The contact page in Mauricodev Website.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact
+      value: Talk with Mauricio Carrasco
     - name: 'twitter:description'
-      value: This is the contact page
+      value: The contact page in Mauricodev Website.
 layout: advanced
 ---

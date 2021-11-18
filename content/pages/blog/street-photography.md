@@ -1,5 +1,5 @@
 ---
-title: Empty
+title: my blog
 date: '2019-03-10'
 thumb_image_alt: Hello this way printed on a red metal gate
 image_alt: Hello this way printed on a red metal gate
