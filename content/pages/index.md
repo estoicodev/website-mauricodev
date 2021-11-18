@@ -37,7 +37,7 @@ sections:
           *   SEO
 seo:
   title: Mauricodev Website
-  description: The preview of the Exto theme
+  description: 'This is the website of Mauricodev, a curious Fron-end developer.'
   extra:
     - name: 'og:type'
       value: website
