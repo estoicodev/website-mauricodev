@@ -36,7 +36,7 @@ sections:
           *   Landing Pages
           *   SEO
 seo:
-  title: 'Mauricodev '
+  title: Mauricodev Website
   description: The preview of the Exto theme
   extra:
     - name: 'og:type'
