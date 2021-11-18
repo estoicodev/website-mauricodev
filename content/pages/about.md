@@ -4,7 +4,7 @@ subtitle: >-
   In short, I'm a passionate self-taught learner who seeks to bring her skills
   to create things that can serve as a tool for others.
 image: /images/foto_portada.jpeg
-image_alt: 'A picture of me in '
+image_alt: A picture of me in ""
 seo:
   title: Who I am?
   description: Mauricio Carrasco is a curious Front-end developer.
