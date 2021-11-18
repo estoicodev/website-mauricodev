@@ -42,6 +42,6 @@ But I'm not only interested in that. I like sports, philosophy, mathematics, des
 
 Everything that I am, I want to gather and offer to others. Only that.
 
-This is a brief description of me, if you want to know a little more than I think, you can check [my blog on Medium](https://medium.com/@mauriciocarrasco), and If you like to contact me to talk about more, I'm very active on my Twitter.
+This is a brief description of me, if you want to know a little more than I think, you can check [my blog on Medium](https://medium.com/@mauriciocarrasco), and If you like to contact me to talk about more, I'm very active on [my Twitter](https://twitter.com/mauricodev).
 
 *Thank you for taking the time for reading me. I hope you have a great day.*
