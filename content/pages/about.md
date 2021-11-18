@@ -1,7 +1,7 @@
 ---
 title: Who I am?
 subtitle: >-
-  In a nutshell, I am a passionate self-taught learner who seeks to bring her
+  In a nutshell, I'm a passionate self-taught learner who seeks to bring her
   skills to create things that can serve as a tool for others.
 image: images/about.jpg
 image_alt: A man taking a picture
