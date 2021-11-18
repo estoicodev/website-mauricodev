@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:title'
       value: Blog
     - name: 'twitter:description'
-      value: Go to my Blog in medium like Mauricio Carrasco.
+      value: Go to my Blog in Medium like Mauricio Carrasco.
     - name: 'twitter:image'
       value: /images/medium-mauricio-carrasco-2f0910ce.png
       relativeUrl: true
