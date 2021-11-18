@@ -6,7 +6,7 @@ subtitle: >-
 image: /images/foto_portada.jpeg
 image_alt: A picture of me in "7 colors Hill"
 seo:
-  title: Who I am?
+  title: Who is Mauricio Carrasco?
   description: Mauricio Carrasco is a curious Front-end developer.
   extra:
     - name: 'og:type'
