@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Portfolio of Mauricodev
+      value: Portfolio of Mauricio Carrasco
     - name: 'twitter:description'
       value: This is the portfolio of Frontend Developer Mauricio Carrasco.
     - name: 'twitter:image'
