@@ -58,7 +58,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact
+      value: Talk with Mauricio Carrasco
     - name: 'twitter:description'
       value: The contact page in Mauricodev Website.
 layout: advanced
