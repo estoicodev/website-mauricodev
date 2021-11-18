@@ -151,7 +151,7 @@
 
   &:before,
   &:after {
-    // border: 2px solid _palette(accent);
+    border: 2px solid _palette(accent);
     box-sizing: border-box;
     content: "";
     height: 32%;
