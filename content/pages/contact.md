@@ -32,7 +32,7 @@ sections:
           - Project
           - Job Offer
           - Other
-          - 'Just to '
+          - Work together
       - input_type: textarea
         name: message
         label: Message
