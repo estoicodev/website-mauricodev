@@ -3,7 +3,7 @@ title: Who I am?
 subtitle: >-
   In short, I'm a passionate self-taught learner who seeks to bring her skills
   to create things that can serve as a tool for others.
-image: images/about.jpg
+image: /images/foto_portada.jpeg
 image_alt: A man taking a picture
 seo:
   title: About Us
