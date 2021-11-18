@@ -33,11 +33,13 @@ seo:
       relativeUrl: true
 layout: page
 ---
+In a nutshell, I am a passionate self-taught who seeks to bring her skills to create things that can serve as a tool for others.
+I believe a lot in education and in the power of continuous learning.
+Like many other people, I have also learned (and continue to learn) web development on a self-taught basis.
+But I'm not only interested in that. I really like sports, philosophy, mathematics, design, neuroscience, among other things. In short, I am a curious person who questions a lot and asks questions constantly. Everything that I am, I want to gather and offer to others. Only that.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+> To change the core of a nation, you have to take a look at its education. - Me
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
 
-*Thank You for reading!*
+*Thank You for reading, and have a nice day.*
