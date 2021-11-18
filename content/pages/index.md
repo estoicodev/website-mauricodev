@@ -53,7 +53,7 @@ seo:
         create beautiful and functional things on the web
       keyName: property
     - name: 'og:image'
-      value: images/exto_preview.png
+      value: /images/mauricodev-website-home-section.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
