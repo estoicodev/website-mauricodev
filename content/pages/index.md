@@ -61,7 +61,9 @@ seo:
     - name: 'twitter:title'
       value: Mauricodev Website
     - name: 'twitter:description'
-      value: 'This is the website of Mauricodev, a curious Front-end developer.'
+      value: >-
+        This is the website of Mauricodev, a curious developer who likes to
+        create beautiful and functional things on the web.
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
