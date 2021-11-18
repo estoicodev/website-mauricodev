@@ -26,7 +26,7 @@ seo:
     - name: 'twitter:description'
       value: This is the portfolio page
     - name: 'twitter:image'
-      value: images/1.jpg
+      value: /images/portafolio-section-05171742.jpg
       relativeUrl: true
 layout: portfolio
 ---
