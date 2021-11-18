@@ -17,7 +17,7 @@ seo:
       value: This is the blog page
       keyName: property
     - name: 'og:image'
-      value: images/12.jpg
+      value: /images/medium-mauricio-carrasco.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
