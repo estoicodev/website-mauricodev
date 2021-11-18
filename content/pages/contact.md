@@ -32,7 +32,7 @@ sections:
           - Project
           - Job Offer
           - Other
-          - lorem-ipsum
+          - 'Just to '
       - input_type: textarea
         name: message
         label: Message
