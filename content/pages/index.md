@@ -36,7 +36,7 @@ sections:
           *   Landing Pages
           *   SEO
 seo:
-  title: Stackbit Exto Theme
+  title: 'Mauricodev '
   description: The preview of the Exto theme
   extra:
     - name: 'og:type'
