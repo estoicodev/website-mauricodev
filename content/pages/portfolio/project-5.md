@@ -1,10 +1,7 @@
 ---
-title: Project Title 5
+title: Soon...
 subtitle: Optional Project Subtitle
 date: '2019-01-05'
-thumb_image_alt: A white gamepad on a green background
-image: images/5.jpg
-image_alt: A white gamepad on a green background
 seo:
   title: Project Title 5
   description: This is the project 5 description

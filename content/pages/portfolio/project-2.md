@@ -2,9 +2,9 @@
 title: Soon...
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
-thumb_image_alt: An orange on a blue background
+thumb_image_alt: A cover of pokeballs
 image: /images/background-carta-pokemon.jpg
-image_alt: An orange on a blue background
+image_alt: A cover of pokeballs
 seo:
   title: Project Title 2
   description: This is the project 2 description
