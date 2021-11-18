@@ -35,7 +35,7 @@ layout: page
 ---
 In a nutshell, I am a passionate self-taught who seeks to bring her skills to create things that can serve as a tool for others.
 I believe a lot in education and in the power of continuous learning.
-Like many other people, I have also learned (and continue to learn) web development on a self-taught basis.
+Like many other people, I've also learned (and continue to learn) web development on a self-taught basis.
 But I'm not only interested in that. I really like sports, philosophy, mathematics, design, neuroscience, among other things. In short, I am a curious person who questions a lot and asks questions constantly. Everything that I am, I want to gather and offer to others. Only that.
 
 > To change the core of a nation, you have to take a look at its education. - MC
