@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:title'
       value: Portfolio of Mauricodev
     - name: 'twitter:description'
-      value: This is the portfolio of Mauricodev
+      value: This is the portfolio of Frontend Developer Mauricodev.
     - name: 'twitter:image'
       value: /images/portafolio-section-05171742.jpg
       relativeUrl: true
