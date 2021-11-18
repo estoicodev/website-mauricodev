@@ -38,8 +38,6 @@ I believe a lot in education and in the power of continuous learning.
 Like many other people, I have also learned (and continue to learn) web development on a self-taught basis.
 But I'm not only interested in that. I really like sports, philosophy, mathematics, design, neuroscience, among other things. In short, I am a curious person who questions a lot and asks questions constantly. Everything that I am, I want to gather and offer to others. Only that.
 
-> To change the core of a nation, you have to take a look at its education. - Me
-
-
+> To change the core of a nation, you have to take a look at its education. - MC
 
 *Thank You for reading, and have a nice day.*
