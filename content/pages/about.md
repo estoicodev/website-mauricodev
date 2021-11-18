@@ -30,7 +30,7 @@ seo:
       value: Who is Mauricio Carrasco?
     - name: 'twitter:description'
       value: >-
-        Mauricio Carrasco is a curious web developer who likes to create
+        Mauricio Carrasco is a curious Front-end developer who likes to create
         beautiful and functional things on the web.
     - name: 'twitter:image'
       value: /images/foto_portada-a02cd0b6.jpeg
