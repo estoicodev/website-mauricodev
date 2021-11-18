@@ -2,7 +2,6 @@
 title: .
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
-image_alt: A yellow retro telephone on a yellow background
 seo:
   title: Project Title 3
   description: This is the project 3 description
