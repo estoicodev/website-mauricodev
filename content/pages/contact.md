@@ -35,7 +35,7 @@ sections:
       - input_type: textarea
         name: message
         label: Message
-        default_value: I would like to talk ...
+        default_value: I would like to talk...
       - input_type: checkbox
         name: consent
         label: >-
