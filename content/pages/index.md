@@ -55,7 +55,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Exto Theme
+      value: Mauricodev Website
     - name: 'twitter:description'
       value: 'This is the website of Mauricodev, a curious Front-end developer.'
     - name: 'twitter:image'
