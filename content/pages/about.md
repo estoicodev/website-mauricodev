@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:description'
       value: Mauricio Carrasco is a curious Front-end developer.
     - name: 'twitter:image'
-      value: images/about.jpg
+      value: /images/foto_portada-a02cd0b6.jpeg
       relativeUrl: true
 layout: page
 ---
