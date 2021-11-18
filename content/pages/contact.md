@@ -1,5 +1,5 @@
 ---
-title: Hello!
+title: 'Hello! '
 hide_title: false
 sections:
   - section_id: contact-form
