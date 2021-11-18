@@ -59,7 +59,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Mauricodev Website
+      value: Website of Mauricio Carrasco
     - name: 'twitter:description'
       value: >-
         This is the website of Mauricodev, a curious developer who likes to
