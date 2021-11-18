@@ -1,6 +1,6 @@
 ---
 title: Who I am?
-subtitle: 'In '
+subtitle: In a nutshell
 image: images/about.jpg
 image_alt: A man taking a picture
 seo:
