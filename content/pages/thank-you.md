@@ -8,7 +8,6 @@ seo:
   description: ''
   robots: []
   extra: []
-subtitle: Hi
 ---
 Thank you for contacting me! I'll get back in touch with you soon.
 
