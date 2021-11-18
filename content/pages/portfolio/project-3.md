@@ -1,5 +1,5 @@
 ---
-title: Soon More...
+title: Soon more...
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
 seo:
