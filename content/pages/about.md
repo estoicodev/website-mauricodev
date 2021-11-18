@@ -16,7 +16,9 @@ seo:
       value: Who I am?
       keyName: property
     - name: 'og:description'
-      value: Mauricio Carrasco is a curious Front-end developer.
+      value: >-
+        Mauricio Carrasco is a curious developer who likes to create beautiful
+        and functional things on the web.
       keyName: property
     - name: 'og:image'
       value: /images/foto_portada-fab0e4ec.jpeg
