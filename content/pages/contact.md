@@ -30,7 +30,7 @@ sections:
         default_value: Please select
         options:
           - Project
-          - Job
+          - Job Offer
           - Other
       - input_type: textarea
         name: message
