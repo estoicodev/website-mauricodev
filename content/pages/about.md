@@ -40,4 +40,4 @@ But I'm not only interested in that. I really like sports, philosophy, mathemati
 
 > To change the core of a nation, you have to take a look at its education. - MC
 
-*Thank You for reading. I hope you have a great day*
+*Thank You for reading. I hope you have a great day.*
