@@ -7,7 +7,7 @@ image: /images/foto_portada.jpeg
 image_alt: A man taking a picture
 seo:
   title: Who I am?
-  description: This is the about us page
+  description: Mauricio Carrasco is a curious Front-end developer.
   extra:
     - name: 'og:type'
       value: website
