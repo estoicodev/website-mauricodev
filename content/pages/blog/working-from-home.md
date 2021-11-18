@@ -1,5 +1,5 @@
 ---
-title: PostEmpty
+title: Empty
 date: '2016-08-22'
 image: images/9.jpg
 seo:
