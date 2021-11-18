@@ -35,9 +35,14 @@ layout: page
 ---
 In a nutshell, I am a passionate self-taught who seeks to bring her skills to create things that can serve as a tool for others.
 I believe a lot in education and in the power of continuous learning.
-Like many other people, I've also learned (and continue to learn) web development on a self-taught basis.
-But I'm not only interested in that. I really like sports, philosophy, mathematics, design, neuroscience, among other things. In short, I am a curious person who questions a lot and asks questions constantly. Everything that I am, I want to gather and offer to others. Only that.
 
 > To change the core of a nation, you have to take a look at its education. - MC
 
-*Thank You for reading. I hope you have a great day.*
+Like many other people, I've also learned (and continue to learn) web development on a self-taught basis.
+But I'm not only interested in that. I like sports, philosophy, mathematics, design, neuroscience, among other things.
+
+Everything that I am, I want to gather and offer to others. Only that.
+
+This is a brief description of me, if you want to know a little more than I think, you can check [my blog on Medium](https://medium.com/@mauriciocarrasco), and If you like to contact me to talk about more, I'm very active on my Twitter.
+
+*Thank you for taking the time for reading me. I hope you have a great day.*
