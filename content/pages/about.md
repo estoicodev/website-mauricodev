@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Us
+      value: Who I am?
     - name: 'twitter:description'
       value: Mauricio Carrasco is a curious Frontend developer
     - name: 'twitter:image'
