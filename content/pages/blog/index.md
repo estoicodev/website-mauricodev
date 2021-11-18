@@ -5,9 +5,8 @@ hide_title: true
 col_number: two
 seo:
   title: Blog
-  description: |+
-    This is the blog of Mauricio Carrasco.
-
+  description: |
+    This is the blog of Mauricio Carrasco. Go to my blog in Medium.
   extra:
     - name: 'og:type'
       value: website
