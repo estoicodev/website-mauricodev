@@ -6,7 +6,7 @@ subtitle: >-
 image: /images/foto_portada.jpeg
 image_alt: A man taking a picture
 seo:
-  title: About Us
+  title: Who I am?
   description: This is the about us page
   extra:
     - name: 'og:type'
