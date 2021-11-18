@@ -14,7 +14,7 @@ seo:
       value: Blog
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: Go to my Blog in medium
       keyName: property
     - name: 'og:image'
       value: /images/medium-mauricio-carrasco.png
