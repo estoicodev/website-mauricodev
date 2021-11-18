@@ -45,7 +45,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Mauricodev Website
+      value: Website of Mauricio Carrasco
       keyName: property
     - name: 'og:description'
       value: >-
