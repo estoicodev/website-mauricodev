@@ -16,7 +16,7 @@ seo:
       value: Who I am?
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: Mauricodev
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
