@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Mauricio Carrasco'
+    title: Hello! I'm Mauricio Carrasco
     content: >
       *A curious developer who likes to create beautiful and functional things
       on the web*
