@@ -1,5 +1,5 @@
 ---
-title: Go
+title: Go to my blog
 date: '2019-03-27'
 thumb_image_alt: A pile of books on the table
 image_alt: A pile of books on the table
