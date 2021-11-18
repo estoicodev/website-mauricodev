@@ -1,5 +1,5 @@
 ---
-title: Empty
+title: C
 subtitle: 'A interesting tale about function of design '
 date: '2018-01-15'
 thumb_image_alt: Library shelves
