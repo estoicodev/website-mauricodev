@@ -3,7 +3,7 @@ title: Portfolio
 subtitle: 'Hey!! You again! As I told you before, here you''ll find what I do recently.'
 layout_style: mosaic
 seo:
-  title: Portfolio
+  title: Portfolio of Mauricio Carrasco
   description: This is the portfolio of Frontend Developer Mauricodev.
   extra:
     - name: 'og:type'
