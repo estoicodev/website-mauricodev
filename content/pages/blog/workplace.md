@@ -1,5 +1,5 @@
 ---
-title: Empty
+title: in Medium
 date: '2019-03-24'
 thumb_image_alt: A leather notebook and a pen on a wooden working table
 image_alt: A leather notebook and a pen on a wooden working table
