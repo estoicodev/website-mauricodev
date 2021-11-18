@@ -53,7 +53,9 @@ seo:
       value: Talk with Mauricio Carrasco
       keyName: property
     - name: 'og:description'
-      value: 'The contact information '
+      value: |-
+        The contact page in Mauricodev Web
+        site
       keyName: property
     - name: 'twitter:card'
       value: summary
