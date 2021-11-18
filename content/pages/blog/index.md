@@ -5,7 +5,8 @@ hide_title: true
 col_number: two
 seo:
   title: Blog
-  description: This is the blog page
+  description: |
+    This is the blog of Mauricio Carrasco.
   extra:
     - name: 'og:type'
       value: website
