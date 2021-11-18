@@ -43,7 +43,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: 'Mauricodev '
+      value: Mauricodev Website
       keyName: property
     - name: 'og:description'
       value: 'The preview of the Exto theme '
