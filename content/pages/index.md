@@ -39,7 +39,7 @@ seo:
   title: Mauricodev Website
   description: >-
     This is the website of Mauricodev, a curious developer who likes to create
-    beautiful and functional things on the web
+    beautiful and functional things on the web.
   extra:
     - name: 'og:type'
       value: website
