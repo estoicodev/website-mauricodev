@@ -9,7 +9,6 @@ seo:
   robots: []
   extra: []
 ---
-
-Thank you for contacting us! We will get back in touch with you soon.
+Thank you for contacting me! I'll get back in touch with you soon.
 
 **Have a great day!**
