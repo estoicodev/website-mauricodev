@@ -13,7 +13,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Who I am?
+      value: Who is Mauricio Carrasco?
       keyName: property
     - name: 'og:description'
       value: >-
