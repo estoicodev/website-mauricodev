@@ -5,8 +5,8 @@ sections:
   - section_id: contact-form
     type: section_form
     content: >
-      Hello! Thank you very much for taking the time to see my work. If you want
-      you can leave me a message below or just email me directly at
+      Thank you very much for taking the time to see my work. If you want you
+      can leave me a message below or just email me directly at
       <mauricodev@gmail.com>.
 
 
