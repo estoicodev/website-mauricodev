@@ -46,7 +46,7 @@ seo:
       value: Mauricodev Website
       keyName: property
     - name: 'og:description'
-      value: 'The preview of the Exto theme '
+      value: 'This is the website of Mauricodev, a curious Front-end developer.'
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
