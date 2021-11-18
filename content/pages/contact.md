@@ -50,7 +50,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Talk with Mauricio Carrasco
       keyName: property
     - name: 'og:description'
       value: This is the contact page
