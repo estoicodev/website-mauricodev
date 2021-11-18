@@ -57,7 +57,7 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Exto Theme
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: 'This is the website of Mauricodev, a curious Front-end developer.'
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
