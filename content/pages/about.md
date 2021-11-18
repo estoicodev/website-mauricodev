@@ -33,7 +33,6 @@ seo:
       relativeUrl: true
 layout: page
 ---
-In a nutshell, I am a passionate self-taught who seeks to bring her skills to create things that can serve as a tool for others.
 I believe a lot in education and in the power of continuous learning.
 
 > To change the core of a nation, you have to take a look at its education. - MC
