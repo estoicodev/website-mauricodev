@@ -4,7 +4,7 @@ subtitle: 'Hey!! You again! As I told you before, here you''ll find what I do re
 layout_style: mosaic
 seo:
   title: Portfolio
-  description: This is the portfolio page
+  description: This is the portfolio of Frontend Developer Mauricodev.
   extra:
     - name: 'og:type'
       value: website
