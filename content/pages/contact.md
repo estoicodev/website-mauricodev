@@ -1,5 +1,5 @@
 ---
-title: 'Hello! '
+title: "Hello! \U0001F44B"
 hide_title: false
 sections:
   - section_id: contact-form
