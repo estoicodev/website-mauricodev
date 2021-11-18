@@ -30,9 +30,9 @@ sections:
         default_value: Please select
         options:
           - Project
+          - Work together
           - Job Offer
           - Other
-          - Work together
       - input_type: textarea
         name: message
         label: Message
