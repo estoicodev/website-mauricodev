@@ -13,7 +13,7 @@ seo:
       value: Portfolio
       keyName: property
     - name: 'og:description'
-      value: This is the portfolio of Mauricodev.
+      value: This is the portfolio of Frontend Developer Mauricodev.
       keyName: property
     - name: 'og:image'
       value: /images/portafolio-section.jpg
