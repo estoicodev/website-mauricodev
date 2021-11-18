@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - section_id: contact-form
     type: section_form
-    content: "Hello! Thank you very much for taking your time to see my work, and if you haven't, what are you waiting for? Well if you want you can leave me a message below or just email me directly at <mauricodev@gmail.com>.\r\nHave a nice day!\n"
+    content: "Hello! Thank you very much for taking the time to see my work. Well if you want you can leave me a message below or just email me directly at <mauricodev@gmail.com>.\r\nHave a nice day!\n"
     form_id: contactForm
     form_action: /thank-you
     form_fields:
