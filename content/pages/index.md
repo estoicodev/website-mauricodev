@@ -37,7 +37,7 @@ sections:
           *   SEO
 seo:
   title: 'Mauricodev '
-  description: The preview of the Exto theme
+  description: 'The preview of the Exto theme '
   extra:
     - name: 'og:type'
       value: website
