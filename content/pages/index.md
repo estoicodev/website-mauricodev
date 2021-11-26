@@ -36,7 +36,7 @@ sections:
           *   Landing Pages
           *   SEO
 seo:
-  title: 'Website of Mauricio Carrasco '
+  title: Mauricio Carrasco Website
   description: >-
     The website of Mauricodev, a curious developer who likes to create beautiful
     and functional things on the web.
