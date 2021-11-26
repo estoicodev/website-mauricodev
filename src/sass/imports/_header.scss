@@ -102,7 +102,7 @@
 
   a {
       //   ADDING
-      padding-bottom: 3px;
+      padding-bottom: 5px;
       border-bottom: 1px solid transparent;
       //
       &:not(.button) {
@@ -111,7 +111,7 @@
       &:hover {
         color: _palette(accent);
         // ADDING
-        border-bottom: 1px solid _palette(accent);
+        border-bottom: 1px solid rgba(_palette(accent),0.8);
         // 
         .accent-green & {
           color: _palette(accent-green);
