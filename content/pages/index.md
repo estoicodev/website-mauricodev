@@ -38,8 +38,8 @@ sections:
 seo:
   title: 'Website of Mauricio Carrasco '
   description: >-
-    This is the website of Mauricodev, a curious developer who likes to create
-    beautiful and functional things on the web.
+    The website of Mauricodev, a curious developer who likes to create beautiful
+    and functional things on the web.
   extra:
     - name: 'og:type'
       value: website
