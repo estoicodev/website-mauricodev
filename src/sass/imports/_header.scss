@@ -111,7 +111,7 @@
       &:hover {
         color: _palette(accent);
         // ADDING
-        border-bottom: 1px solid rgba(_palette(accent),.6);
+        border-bottom: 1px solid rgba(_palette(charcoal),.6);
         // 
         .accent-green & {
           color: _palette(accent-green);
